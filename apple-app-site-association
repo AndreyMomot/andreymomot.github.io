@@ -1,5 +1,14 @@
 {
-   "webcredentials": {
-       "apps": ["G5RH43PBN9.com.keycahin.SampleAp"]
-    }
-}
+     "applinks": {
+         "apps": [],
+         "details": [
+              {
+           "appID": "G5RH43PBN9.com.keycahin.SampleAp",
+           "paths": ["*"]
+              }
+          ]
+      },
+      "webcredentials": {
+         "apps": ["G5RH43PBN9.com.keycahin.SampleAp"]
+      }
+   }
