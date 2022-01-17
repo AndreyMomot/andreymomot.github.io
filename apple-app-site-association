@@ -3,12 +3,12 @@
          "apps": [],
          "details": [
               {
-           "appID": "G5RH43PBN9.com.keycahin.SampleAp",
+           "appID": "G5RH43PBN9.com.keycahin.SampleApp",
            "paths": ["*"]
               }
           ]
       },
       "webcredentials": {
-         "apps": ["G5RH43PBN9.com.keycahin.SampleAp"]
+         "apps": ["G5RH43PBN9.com.keycahin.SampleApp"]
       }
    }
