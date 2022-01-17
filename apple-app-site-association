@@ -5,10 +5,14 @@
               {
            "appID": "Y73BS7H456.cc.parimatch.ios",
            "paths": ["*"]
+              },
+              {
+           "appID": "Y73BS7H456.cc.parimatch.ios",
+           "paths": ["*"]
               }
           ]
       },
       "webcredentials": {
-         "apps": ["Y73BS7H456.cc.parimatch.ios"]
+         "apps": ["Y73BS7H456.cc.parimatch.ios","Y73BS7H456.com.parimatch.casino"]
       }
    }
