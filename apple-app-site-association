@@ -5,18 +5,10 @@
               {
            "appID": "G5RH43PBN9.com.keycahin.SampleApp",
            "paths": ["*"]
-              },
-              {
-           "appID": "Y73BS7H456.cc.parimatch.ios",
-           "paths": ["*"]
-              },
-              {
-           "appID": "Y73BS7H456.cc.parimatch.ios",
-           "paths": ["*"]
               }
           ]
       },
       "webcredentials": {
-         "apps": ["G5RH43PBN9.com.keycahin.SampleApp","Y73BS7H456.cc.parimatch.ios","Y73BS7H456.com.parimatch.casino"]
+         "apps": ["G5RH43PBN9.com.keycahin.SampleApp"]
       }
    }
