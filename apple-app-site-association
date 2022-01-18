@@ -3,12 +3,16 @@
          "apps": [],
          "details": [
               {
-           "appID": "G5RH43PBN9.com.keycahin.SampleApp",
+           "appID": "Y73BS7H456.cc.parimatch.ios",
+           "paths": ["*"]
+              },
+              {
+           "appID": "Y73BS7H456.com.parimatch.casino",
            "paths": ["*"]
               }
           ]
       },
       "webcredentials": {
-         "apps": ["G5RH43PBN9.com.keycahin.SampleApp"]
+         "apps": ["Y73BS7H456.cc.parimatch.ios","Y73BS7H456.com.parimatch.casino"]
       }
    }
